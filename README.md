@@ -1,4 +1,4 @@
-# RPerformance React
+# Performance React
 
 ![Badge](https://img.shields.io/badge/since-2022-blue?style=flat-square)
 ![Badge](https://img.shields.io/badge/status-finalizado-green?style=flat-square)
